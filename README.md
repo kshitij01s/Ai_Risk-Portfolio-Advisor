@@ -1,2 +1,13 @@
-# Ai_Risk-Portfolio-Advisor
- AI Portfolio Risk Advisor ML model to assess portfolio’s risk exposure based on:  Correlations  Sector concentration  Volatility  Suggest diversification strategies.
+# AI Portfolio Risk Advisor
+
+## Features
+- Correlation, volatility, sector concentration analysis
+- ML-based risk scoring
+- Diversification strategy recommendations
+
+## Usage
+1. Upload a CSV of your portfolio (`Ticker`, `Weight`).
+2. The app analyzes your risk.
+3. Get actionable diversification suggestions.
+
+## Setup
